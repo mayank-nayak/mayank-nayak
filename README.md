@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mayank-nayak
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning the exciting sphere of computer science.
-- 💞️ I’m looking to collaborate on coding projects such as game developement, web development, and application development.
+- 👀 I’m interested in engineering cool products through code and innovative thought.
 - 📫 How to reach me : mayank.nayak@hotmail.com
 
 <!---
